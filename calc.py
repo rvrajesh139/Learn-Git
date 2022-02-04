@@ -1,6 +1,4 @@
 a=int(input())
 b=int(input())
 print(a+b)
-print("hello GIT")
-print("dividing method")
-print("Adding method")
+print("HELLO GIT")
